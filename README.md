@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Edward</h1>
-<p align="justify">Ingeniero en Informática y Desarrollador Full Stack. Apasionado por la innovación y la creación de soluciones tecnológicas. Con conocimientos en análisis de redes, protocolos del modelo OSI y auditorías de calidad de software, bases de datos y redes bajo normas ISO. Con amplios conocimientos en desarrollo de software utilizando tecnologías como React, Next.js, SQL, Sequelize, Redux y Express. ¡Trabajemos juntos para construir algo asombroso!</p>
+<p align="center">Ingeniero en Informática y Desarrollador Full Stack. Apasionado por la innovación y la creación de soluciones tecnológicas. Con conocimientos en análisis de redes, protocolos del modelo OSI y auditorías de calidad de software, bases de datos y redes bajo normas ISO. Con amplios conocimientos en desarrollo de software utilizando tecnologías como React, Next.js, SQL, Sequelize, Redux y Express. ¡Trabajemos juntos para construir algo asombroso!</p>
 
 <!-- - 📫 How to reach me **edwardraga@icloud.com** -->
 
