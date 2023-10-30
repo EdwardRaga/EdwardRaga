@@ -4,10 +4,4 @@
 
 ## Acerca de mí
 
-¡Hola humano! Soy Edward Raga, un Desarrollador Web Full Stack Junior, me apasiona hacer que los sitios web parezcan más atractivos que una taza de café en una habitación llena de desarrolladores sedientos de conocimiento.
-
-En mi tiempo libre, me encanta enfocarme en mejorar constantemente mis habilidades técnicas y construir proyectos hermosos que impulsen mi carrera profesional. Me gusta estar al tanto de las últimas tendencias y tecnologías en el campo del desarrollo.
-
-Si quieres que colaboremos juntos en un proyecto, no dudes en ponerte en contacto conmigo y sumerjámonos en el mundo del código para crear algo tan impresionante que dejaría a Elon Musk, Mark Zuckerberg y Bill Gates con la boca abierta.
-
-Si tienes algún proyecto, por favor no dudes en contactarme y estaré encantado de ayudarte. [Correo electrónico](mailto:edwardraga@icloud.com)
+Software Developer with technical experience in JavaScript, React, Redux, Node.js, Express, PostgreSQL and MongoDB. I have worked on designing attractive interfaces, focused on usability and user experience. In addition, I have created optimized applications looking for excellent performance. My solid knowledge and experience in agile methodologies, especially Scrum, support my collaborative approach and my ability to solve problems creatively. Passionate about continuous learning and updated on the latest trends in web development.
